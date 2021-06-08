@@ -1,0 +1,1 @@
+LSTM: 使用的是word embedding表达词向量，而不是使用word2vec
